@@ -1,0 +1,21 @@
+body {
+    background-color: #b2c5c5;
+  }
+
+  hr {
+    border-color: whitesmoke;
+    border-style: dotted none none;
+    width: 10%;
+    border-width: 6px;
+  }
+  
+  #prlphoto{
+background-color: rgb(25, 0, 0);
+border-style: dashed;
+border-color: white;
+ }
+
+
+  #prlphoto:hover{
+    background-color: rgb(239, 168, 168);
+  }
